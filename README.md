@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hey, I'm Ruslan Lyzko 👋
 
-<!--
-**Ro-Ly/Ro-Ly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Senior QA Automation Engineer | QA Lead | Java / UI / API / Backend Testing**
 
-Here are some ideas to get you started:
+11+ years of experience in software quality assurance, automation testing, and QA process improvement.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building scalable automation solutions, CI/CD-integrated quality workflows, and reliable testing processes for complex distributed systems.
+
+## Tech Stack
+
+`Java` `Selenide` `RestAssured` `Appium` `JUnit 5` `TestNG` `Jenkins` `CircleCI` `SQL` `PostgreSQL` `MongoDB` `Redis` `Kafka` `RabbitMQ`
+
+## Links
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/ruslan-lyzko/)
+- 📄 [CV / Resume](https://drive.google.com/drive/folders/16cwNlA4ikWwc_8ByvUvHosaWHL0dI-Re)
+- 🌐 [CV Website](https://ruslanlyzko.carrd.co/)
+- ✈️ [Telegram](https://t.me/Ro_Lyzko)
+
+📍 Portugal  
+🌍 Open to remote / hybrid opportunities
