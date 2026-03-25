@@ -2,6 +2,9 @@
 
 **Senior QA Automation Engineer | QA Lead | Java / UI / API / Backend Testing**
 
+📍 Portugal  
+🌍 Open to remote / hybrid opportunities
+
 11+ years of experience in software quality assurance, automation testing, and QA process improvement.
 
 Building scalable automation solutions, CI/CD-integrated quality workflows, and reliable testing processes for complex distributed systems.
@@ -16,6 +19,3 @@ Building scalable automation solutions, CI/CD-integrated quality workflows, and 
 - 📄 [CV / Resume](https://drive.google.com/drive/folders/16cwNlA4ikWwc_8ByvUvHosaWHL0dI-Re)
 - 🌐 [CV Website](https://ruslanlyzko.carrd.co/)
 - ✈️ [Telegram](https://t.me/Ro_Lyzko)
-
-📍 Portugal  
-🌍 Open to remote / hybrid opportunities
