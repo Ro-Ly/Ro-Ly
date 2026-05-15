@@ -16,6 +16,6 @@ Building scalable automation solutions, CI/CD-integrated quality workflows, and 
 ## Links
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/ruslan-lyzko/)
-- 📄 [CV / Resume](https://drive.google.com/drive/folders/16cwNlA4ikWwc_8ByvUvHosaWHL0dI-Re)
+- 📄 [CV / Resume](https://drive.google.com/file/d/1SW04SgRK3TMhcBSeYAqW6ll7ROp6x69h/view?usp=drive_link)
 - 🌐 [CV Website](https://ruslanlyzko.carrd.co/)
 - ✈️ [Telegram](https://t.me/Ro_Lyzko)
