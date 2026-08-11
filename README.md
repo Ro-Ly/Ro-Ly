@@ -11,7 +11,7 @@ Building scalable automation solutions, CI/CD-integrated quality workflows, and 
 
 ## Tech Stack
 
-`Java` `Selenide` `RestAssured` `Appium` `JUnit 5` `TestNG` `Jenkins` `CircleCI` `SQL` `PostgreSQL` `MongoDB` `Redis` `Kafka` `RabbitMQ`
+`Java` `Playwright` `Selenide` `RestAssured` `Appium` `JUnit 5` `TestNG` `Jenkins` `CircleCI` `SQL` `PostgreSQL` `MongoDB` `Redis` `Kafka` `RabbitMQ`
 
 ## Links
 
